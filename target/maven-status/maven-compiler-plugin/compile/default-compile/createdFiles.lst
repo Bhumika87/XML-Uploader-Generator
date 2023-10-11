@@ -1,0 +1,7 @@
+org/example/service/GetTableListForDropdown.class
+org/example/configuration/SpringMvcDispatcherServletInitializer.class
+org/example/service/DownloadXmlProcessor.class
+org/example/controller/RestApisController.class
+org/example/configuration/AppConfig.class
+org/example/controller/ViewController.class
+org/example/service/UploadXmlParser.class

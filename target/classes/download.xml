@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <name>table1</name>
+    <columns>
+        <column>
+            <name>attr1</name>
+        </column>
+        <column>
+            <name>attr2</name>
+        </column>
+    </columns>
+    <rows>
+        <row>
+            <value>value1</value>
+            <value>value2</value>
+        </row>
+        <row>
+            <value>value3</value>
+            <value>value4</value>
+        </row>
+    </rows>
+</table>
+
